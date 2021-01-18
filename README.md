@@ -12,11 +12,14 @@ pip3 install -r Requirements.txt
 
 Main file:
 Environment_setting_DQN.py is where we set the environment we want the agent to be trained in. Also here we decide the parameters that we want to set before training the agent.
+
 Set train_dqn = 1 to train the deep q network.
 
 ## Other files
 Train_MyRLAgent_DQN.py is called to start training the agent
+
 QLearning_Agent_DQN.py is where the Agent is created
+
 My_DQN.py is where the deep learning network is structured.
 
 ## Plots
